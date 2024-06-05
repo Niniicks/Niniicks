@@ -2,13 +2,13 @@
 
 Meu nome é Nicolly Linda
 
-Meu nome é Marcelo Paludetto
-
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
-paludettomarcelo@gmail.com
-@marcelopaludetto
+ninicks.santis@gmail.com   
+@niiick.santiis
+
+![descrição do GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BqaGc5andnZm9oOHM5YjlpM3A0d3BpeGswamFkOGt0OHVwZ2FoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVFNEZreqJaPKXahr5/giphy.webp)
